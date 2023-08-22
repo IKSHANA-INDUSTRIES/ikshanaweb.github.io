@@ -62,11 +62,7 @@ export const Products = () => {
                     >
                       <Tab.Pane eventKey="first">
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Cumque quam, quod neque provident velit, rem
-                          explicabo excepturi id illo molestiae blanditiis,
-                          eligendi dicta officiis asperiores delectus quasi
-                          inventore debitis quo.
+                          Ikshana is a pioneering startup dedicated to revolutionizing space technology by focusing on advanced solutions for space debris. Leveraging cutting-edge research and innovation, Ikshana is committed to addressing the critical issue of orbital debris, employing ingenious strategies to ensure the long-term sustainability of space exploration and satellite operations.
                         </p>
                       </Tab.Pane>
                       <Tab.Pane eventKey="section">
@@ -81,11 +77,7 @@ export const Products = () => {
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Cumque quam, quod neque provident velit, rem
-                          explicabo excepturi id illo molestiae blanditiis,
-                          eligendi dicta officiis asperiores delectus quasi
-                          inventore debitis quo.
+                         Embracing the urgency of a greener future, sustainable energy startup pursues innovative pathways to harness renewable resources. Through groundbreaking research and development, this company aims to create accessible and efficient solutions that transition us away from fossil fuels, fostering a cleaner, more sustainable energy landscape for generations to come.
                         </p>
                       </Tab.Pane>
                     </Tab.Content>
