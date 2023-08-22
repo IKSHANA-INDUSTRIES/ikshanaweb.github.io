@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ikshanaweb.github.io/static/css/main.3c21e4da.css",
-    "main.js": "/ikshanaweb.github.io/static/js/main.10ddb675.js",
+    "main.js": "/ikshanaweb.github.io/static/js/main.cbf39bd1.js",
     "static/js/787.2c7f41bb.chunk.js": "/ikshanaweb.github.io/static/js/787.2c7f41bb.chunk.js",
     "static/media/color-sharp.png": "/ikshanaweb.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/ikshanaweb.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -29,11 +29,11 @@
     "static/media/arrow1.svg": "/ikshanaweb.github.io/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/ikshanaweb.github.io/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.3c21e4da.css.map": "/ikshanaweb.github.io/static/css/main.3c21e4da.css.map",
-    "main.10ddb675.js.map": "/ikshanaweb.github.io/static/js/main.10ddb675.js.map",
+    "main.cbf39bd1.js.map": "/ikshanaweb.github.io/static/js/main.cbf39bd1.js.map",
     "787.2c7f41bb.chunk.js.map": "/ikshanaweb.github.io/static/js/787.2c7f41bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c21e4da.css",
-    "static/js/main.10ddb675.js"
+    "static/js/main.cbf39bd1.js"
   ]
 }
